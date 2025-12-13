@@ -2,8 +2,9 @@ import { Heart, Cpu, Satellite, Wifi, PenTool, Brain } from 'lucide-react';
 
 const interests = [
   { name: 'Robotics', icon: Cpu },
+  { name: 'Space Technology', icon: Satellite },
   { name: 'Embedded Systems', icon: Cpu },
-  { name: 'Satellite Technology', icon: Satellite },
+  { name: '3D Printing', icon: PenTool },
   { name: 'IoT Devices', icon: Wifi },
   { name: 'PCB Design', icon: PenTool },
   { name: 'AI on Edge Hardware', icon: Brain }

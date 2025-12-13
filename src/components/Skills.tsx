@@ -2,14 +2,14 @@ import { Cpu, Code, Zap, Wifi, Wrench } from 'lucide-react';
 
 const skillCategories = [
   {
-    title: 'Microcontrollers',
+    title: 'Microcontroller Units',
     icon: Cpu,
     skills: ['Arduino', 'ESP32 (beginner-level)']
   },
   {
     title: 'Programming',
     icon: Code,
-    skills: ['C (basic)', 'C++ (basic)', 'Python (beginner)', 'HTML, CSS, JS']
+    skills: ['C ', 'C++ (basic)', 'Python', 'HTML, CSS, JS', 'Assembly language (8085)']
   },
   {
     title: 'Electronics',
@@ -17,15 +17,20 @@ const skillCategories = [
     skills: ['Basic circuit design', 'Sensor interfacing', 'Breadboard prototyping']
   },
   {
-    title: 'Protocols',
-    icon: Wifi,
-    skills: ['UART', 'I2C (intro-level)']
-  },
-  {
     title: 'Tools',
     icon: Wrench,
     skills: ['VS Code', 'Arduino IDE', 'MATLAB', 'LTSpice', 'KiCad (beginner)']
+  },
+  {
+    title: 'Other Skills',
+    icon: Wifi,
+    skills: ['Designing', 'Figma', 'Canva']
   }
+  // {
+  //   title: 'Protocols',
+  //   icon: Wifi,
+  //   skills: ['UART', 'I2C (intro-level)']
+  // }
 ];
 
 export default function Skills() {
