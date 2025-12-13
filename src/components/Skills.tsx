@@ -24,7 +24,7 @@ const skillCategories = [
   {
     title: 'Other Skills',
     icon: Wifi,
-    skills: ['Designing', 'Figma', 'Canva']
+    skills: ['UI/UX Designing', 'Figma', 'Canva']
   }
   // {
   //   title: 'Protocols',

@@ -16,7 +16,7 @@ export default function Experience() {
             </div>
             <div>
               <h3 className="text-2xl font-bold text-white mb-2">
-                Technical Fest – Organizing Committee Member
+                Tantrafiesta 2025 (Technical Fest) – Organizing Committee Member
               </h3>
               <div className="space-y-2">
                 <p className="text-gray-300 flex items-start gap-2">

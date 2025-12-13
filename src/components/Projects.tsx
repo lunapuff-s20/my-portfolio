@@ -2,7 +2,7 @@ import { Folder, TrendingUp, Radio, Wrench } from 'lucide-react';
 
 const projects = [
   {
-    title: 'Line Follower Robot (PID-Based, Competitive)',
+    title: 'Line Follower Robot (PID-Based, Competitive, Team of 2)',
     icon: TrendingUp,
     color: 'emerald',
     points: [
