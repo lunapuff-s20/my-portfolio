@@ -24,29 +24,29 @@ export default function Hero() {
         </div>
 
         <h1 className="text-5xl md:text-7xl font-bold text-white mb-4 tracking-tight">
-          Your <span className="text-transparent bg-clip-text bg-gradient-to-r from-emerald-400 to-blue-400">Name</span>
+          <span className="text-transparent bg-clip-text bg-gradient-to-r from-emerald-400 to-blue-400">Soumya Prakash</span>
         </h1>
 
         <p className="text-xl md:text-2xl text-emerald-400 mb-6 font-light">
-          Electronics & Communication Engineer
+          2nd year Electronics & Communication Engineer student
         </p>
 
         <p className="text-gray-400 text-lg mb-8 max-w-2xl mx-auto leading-relaxed">
-          Building the future with embedded systems, robotics, and innovative hardware-software solutions
+          Aspiring to Building a future with embedded systems, robotics, and innovative hardware-software solutions
         </p>
 
         <div className="flex flex-wrap justify-center gap-4 mb-8 text-gray-300">
           <a href="#" className="flex items-center gap-2 hover:text-emerald-400 transition-colors">
             <MapPin className="w-4 h-4" />
-            <span>City, State</span>
+            <span>Mumbai</span>
           </a>
-          <a href="tel:" className="flex items-center gap-2 hover:text-emerald-400 transition-colors">
+          {/* <a href="tel:" className="flex items-center gap-2 hover:text-emerald-400 transition-colors">
             <Phone className="w-4 h-4" />
             <span>Phone Number</span>
-          </a>
+          </a> */}
           <a href="mailto:" className="flex items-center gap-2 hover:text-emerald-400 transition-colors">
             <Mail className="w-4 h-4" />
-            <span>Email Address</span>
+            <span>soumyaprakash2046@gmail.com</span>
           </a>
         </div>
 

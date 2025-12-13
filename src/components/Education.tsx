@@ -28,7 +28,7 @@ export default function Education() {
                 Electronics and Communication Engineering
               </p>
               <p className="text-gray-500">
-                [Your University Name]
+                Indian Institute of Information Technology, Nagpur
               </p>
             </div>
           </div>
