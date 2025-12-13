@@ -19,7 +19,7 @@ export default function Hero() {
       <div className="relative z-10 text-center px-4 max-w-4xl mx-auto">
         <div className="mb-6 inline-block">
           <div className="w-32 h-32 mx-auto bg-gradient-to-br from-emerald-400 to-blue-500 rounded-full flex items-center justify-center text-white text-5xl font-bold shadow-2xl shadow-emerald-500/50 animate-float">
-            <span className="text-slate-900">EC</span>
+            <span className="text-slate-900">SP</span>
           </div>
         </div>
 
