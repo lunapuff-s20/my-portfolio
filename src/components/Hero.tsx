@@ -51,11 +51,11 @@ export default function Hero() {
         </div>
 
         <div className="flex justify-center gap-4">
-          <a href="#" target="_blank" rel="noopener noreferrer"
+          <a href="https://github.com/lunapuff-s20" target="_blank" rel="noopener noreferrer"
              className="p-3 bg-slate-800 hover:bg-emerald-600 rounded-lg transition-all hover:scale-110 hover:shadow-lg hover:shadow-emerald-500/50">
             <Linkedin className="w-6 h-6 text-white" />
           </a>
-          <a href="#" target="_blank" rel="noopener noreferrer"
+          <a href="https://www.linkedin.com/in/soumya-prakash-496369318?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer"
              className="p-3 bg-slate-800 hover:bg-emerald-600 rounded-lg transition-all hover:scale-110 hover:shadow-lg hover:shadow-emerald-500/50">
             <Github className="w-6 h-6 text-white" />
           </a>
