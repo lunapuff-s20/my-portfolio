@@ -12,7 +12,7 @@ const interests = [
 
 export default function Interests() {
   return (
-    <section className="py-20 px-4 bg-slate-800">
+    <section id="interests" className="py-20 px-4 bg-slate-800 scroll-mt-20">
       <div className="max-w-6xl mx-auto">
         <div className="flex items-center gap-3 mb-12">
           <Heart className="w-8 h-8 text-emerald-400" />

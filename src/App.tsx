@@ -1,3 +1,4 @@
+import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import About from './components/About';
 import Education from './components/Education';
@@ -11,15 +12,18 @@ import Footer from './components/Footer';
 function App() {
   return (
     <div className="min-h-screen bg-slate-900">
-      <Hero />
-      <About />
-      <Education />
-      <Skills />
-      <Projects />
-      <Coursework />
-      <Experience />
-      <Interests />
-      <Footer />
+      <Navbar />
+      <div className="pt-16">
+        <Hero />
+        <About />
+        <Education />
+        <Skills />
+        <Projects />
+        <Coursework />
+        <Experience />
+        <Interests />
+        <Footer />
+      </div>
     </div>
   );
 }

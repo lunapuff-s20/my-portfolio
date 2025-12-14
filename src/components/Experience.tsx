@@ -2,7 +2,7 @@ import { Award, Users } from 'lucide-react';
 
 export default function Experience() {
   return (
-    <section className="py-20 px-4 bg-slate-900">
+    <section id="experience" className="py-20 px-4 bg-slate-900 scroll-mt-20">
       <div className="max-w-6xl mx-auto">
         <div className="flex items-center gap-3 mb-12">
           <Award className="w-8 h-8 text-emerald-400" />
